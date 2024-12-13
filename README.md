@@ -4,7 +4,7 @@ Welcome to the repository for my **Restaurant Landing Page**. Below is a direct 
 
 ## 📄 View the PDF
 
-Click [here](./VaishaliTech/Restaurant.pdf.pdf) to view the Restaurant Landing Page.
+Click [here] [Restaurant.pdf](https://github.com/user-attachments/files/18126001/Restaurant.pdf) to view the Restaurant Landing Page.
 
 ## About
 
